@@ -1,0 +1,40 @@
+.card{
+    width: 275px;
+    min-height: 500px;
+    background-color: #f8f9fa;
+    border: 1px solid #b9b9b9;
+}
+
+img{
+    width: 265px;
+    padding: 5px;
+}
+
+figure{
+    margin:-2px 30px 0px;
+    font-family: segoe ui;
+    font-size: smaller;
+}
+
+span{
+font-family: segoe ui; 
+font-weight: 400;    
+}
+
+.map{
+    margin-left: -30px;
+}
+
+h4{
+    font-weight: 500;
+}
+
+a{
+    text-decoration: none;
+}
+
+.op{
+    margin-left: 30px;
+    font-family: segoe ui;
+    font-weight: 100;
+}
